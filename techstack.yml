@@ -1,0 +1,1392 @@
+repo_name: ibrahimbdr/socket.io
+report_id: 38058f1b312f2c4748c9f57f07e8e692
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T12:28:36+00:00'
+requested_by: darrachequesne
+provider: github
+branch: main
+detected_tools_count: 101
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io
+  detection_source: Repo Metadata
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: Expo
+  description: Build one project that runs natively on all your users' devices
+  website_url: https://expo.dev/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/react-native/package.json
+  detection_source: examples/react-native/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-06-05 06:56:20.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/chat/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-04-14 07:47:51.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-07-09 08:58:48.000000000 Z
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/react-native/package.json
+  detection_source: examples/react-native/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-06-05 06:56:20.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.6
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server-postgres-cluster/docker-compose.yml
+  detection_source: examples/basic-crud-application/server-postgres-cluster/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-07 10:35:00.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 3.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-nginx/server/package.json
+  detection_source: examples/cluster-haproxy/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-01-16 07:33:09.000000000 Z
+- name: Sequelize
+  description: Easy-to-use multi SQL dialect ORM for Node.js
+  website_url: https://sequelize.org/
+  version: 6.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3211/3591786.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server-postgres-cluster/package.json
+  detection_source: examples/basic-crud-application/server-postgres-cluster/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-07 10:35:00.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  version: 4.0.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-03-18 14:06:47.000000000 Z
+- name: Apache HTTP Server
+  description: Open-source HTTP server for modern operating systems including UNIX
+    and Windows
+  website_url: https://httpd.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1051/default_9e444e0d6cc9f4f55f1b86979900673af4de46aa.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-httpd/docker-compose.yml
+  detection_source: examples/cluster-httpd/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-01-16 07:33:22.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/private-messaging/babel.config.js
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server/package.json
+  detection_source: examples/basic-crud-application/server/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-04-22 22:08:18.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-haproxy/haproxy/Dockerfile
+  detection_source: examples/cluster-haproxy/haproxy/Dockerfile
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-01-16 07:33:09.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Alex
+  last_updated_on: 2022-09-02 22:10:19.000000000 Z
+- name: HAProxy
+  description: The Reliable, High Performance TCP/HTTP Load Balancer
+  website_url: http://www.haproxy.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/1179/preview.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-haproxy/docker-compose.yml
+  detection_source: examples/cluster-haproxy/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-01-16 07:33:09.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: examples/basic-crud-application/server/package.json
+  last_updated_by: brownman
+  last_updated_on: 2021-07-15 19:48:20.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-nginx/docker-compose.yml
+  detection_source: examples/cluster-nginx/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-01-16 07:32:53.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-07-03 22:37:35.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-06-27 07:08:01.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: Traefik
+  description: The Cloud Native Edge Router
+  website_url: https://traefik.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-traefik/docker-compose.yml
+  detection_source: examples/cluster-traefik/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-01-31 22:47:23.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.42.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/custom-parsers/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-03-18 14:06:47.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/yarn.lock
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-07-09 08:58:48.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Guillermo Rauch
+  last_updated_on: 2011-05-05 15:49:40.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/rollup-server-bundle/package.json
+  detection_source: examples/rollup-server-bundle/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-11 05:56:28.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/cluster-haproxy/docker-compose.yml
+  detection_source: examples/cluster-haproxy/docker-compose.yml
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-01-16 07:33:09.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/passport-example/package.json
+  detection_source: examples/passport-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-05-22 06:30:13.000000000 Z
+- name: superagent library
+  description: robust and clean node and browser reqest library
+  website_url: https://visionmedia.github.io/superagent/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-06-27 07:08:01.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 0.1100.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-03-18 14:06:47.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/react-native/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-06-05 06:56:20.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 13.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/rollup-server-bundle/package.json
+  detection_source: examples/rollup-server-bundle/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-11 05:56:28.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-07-09 08:58:48.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-07-09 08:58:48.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.2.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server/package.json
+  detection_source: examples/basic-crud-application/server/package.json
+  last_updated_by: brownman
+  last_updated_on: 2021-07-15 19:48:20.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: examples/basic-crud-application/server/package.json
+  last_updated_by: brownman
+  last_updated_on: 2021-07-15 19:48:20.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server/package.json
+  detection_source: examples/basic-crud-application/server/package.json
+  last_updated_by: brownman
+  last_updated_on: 2021-07-15 19:48:20.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: accepts
+  description: Higher-level content negotiation
+  package_url: https://www.npmjs.com/accepts
+  version: 1.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17723/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-10-16 23:56:17.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: babel-preset-expo
+  description: The Babel preset for Expo projects
+  package_url: https://www.npmjs.com/babel-preset-expo
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18526/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/react-native/package.json
+  detection_source: examples/react-native/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-06-05 06:56:20.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/passport-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-05-22 06:30:13.000000000 Z
+- name: bufferutil
+  description: WebSocket buffer utils
+  package_url: https://www.npmjs.com/bufferutil
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17739/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/webpack-build-server/package.json
+  detection_source: examples/webpack-build-server/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-06-15 20:35:06.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: component-emitter
+  description: Event emitter
+  package_url: https://www.npmjs.com/component-emitter
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17572/default_4627bd50a25f9a490243683fabcc5c97d552aa2a.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/custom-parsers/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2017-05-08 22:46:01.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-08-30 06:27:46.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 6.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Guillermo Rauch
+  last_updated_on: 2014-03-15 13:39:21.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/chat/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-04-14 07:47:51.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.17.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/express-session-example/package.json
+  detection_source: examples/express-session-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-02 09:08:26.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 4.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/server/package.json
+  detection_source: examples/private-messaging/server/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-16 23:24:23.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 5.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: joi
+  description: Object schema validation
+  package_url: https://www.npmjs.com/joi
+  version: 17.4.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server-postgres-cluster/package.json
+  detection_source: examples/basic-crud-application/server-postgres-cluster/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-07 10:35:00.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 15.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: examples/basic-crud-application/server/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-04-22 22:08:18.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/passport-example/package.json
+  detection_source: examples/passport-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-05-22 06:30:13.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server-postgres-cluster/package.json
+  detection_source: examples/basic-crud-application/server-postgres-cluster/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-07 10:35:00.000000000 Z
+- name: pg-hstore
+  description: An module for serializing and deserializing JSON data in to hstore
+    format
+  package_url: https://www.npmjs.com/pg-hstore
+  version: 2.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17805/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/basic-crud-application/server-postgres-cluster/package.json
+  detection_source: examples/basic-crud-application/server-postgres-cluster/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-07 10:35:00.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-07-09 08:58:48.000000000 Z
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/react-native/package.json
+  detection_source: examples/react-native/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-06-05 06:56:20.000000000 Z
+- name: react-native-web
+  description: React Native for Web
+  package_url: https://www.npmjs.com/react-native-web
+  version: 0.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17683/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/react-native/package.json
+  detection_source: examples/react-native/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-06-05 06:56:20.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-07-09 08:58:48.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-11-19 00:28:27.000000000 Z
+- name: socket.io-client
+  description: "[![Build Status]"
+  package_url: https://www.npmjs.com/socket.io-client
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-03-18 14:06:47.000000000 Z
+- name: superagent
+  description: Elegant &amp; feature rich browser / node HTTP with a fluent API
+  package_url: https://www.npmjs.com/superagent
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-06-27 07:08:01.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: tsd
+  description: Check TypeScript type definitions
+  package_url: https://www.npmjs.com/tsd
+  version: 0.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Guillermo Rauch
+  last_updated_on: 2011-05-05 15:49:40.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
+- name: utf-8-validate
+  description: Check if a buffer contains valid UTF-8
+  package_url: https://www.npmjs.com/utf-8-validate
+  version: 5.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17898/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/webpack-build-server/package.json
+  detection_source: examples/webpack-build-server/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-06-15 20:35:06.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/create-react-app-example/yarn.lock
+  detection_source: examples/basic-crud-application/server-postgres-cluster/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2022-04-07 10:35:00.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-02-08 00:06:20.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/webpack-build-server/package.json
+  detection_source: examples/webpack-build-server/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2021-06-15 20:35:06.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/ibrahimbdr/socket.io/blob/main/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
+  last_updated_by: Damien Arrachequesne
+  last_updated_on: 2020-12-17 11:42:23.000000000 Z
